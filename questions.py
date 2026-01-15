@@ -90,4 +90,188 @@ questions = [
             ],
         'answer':1
     },
+    {
+        'question': "Which of these keywords define the characteristics of a person, place or thing",
+        'options': [
+            "Def",
+            "Class",
+            "Import",
+            "if"
+        ],
+        'answer':1
+    },
+    {
+        'question': "Which keyword defines a sequence of instructions",
+        'options': [
+            "class",
+            "for/while",
+            "def",
+            "return"
+        ],
+        'answer':2
+    },
+    {
+        'question': "Which keyword begins a section of code that repeats one or more times",
+        'options': [
+            "for/while",
+            "try",
+            "if/elif/else",
+            "def"
+        ],
+        'answer':0
+    },
+    {
+        'question': "Which keyword can execute program statements when a condition is true",
+        'options': [
+            "for/while",
+            "def",
+            "class",
+            "if/elif/else"
+        ],
+        'answer':3
+    },
+    {
+        'question': "Which keyword can incorporate a prewritten code module in a program",
+        'options': [
+            "import",
+            "try",
+            "return",
+            "def"
+        ],
+        'answer':0
+    },
+    {
+        'question': "Which keyword can bring a value back from a function",
+        'options': [
+            "try",
+            "class",
+            "return",
+            "import"
+        ],
+        'answer':2
+    },
+    {
+        'question': "Which keyword can catch errors and handle them gracfully",
+        'options': [
+            "class",
+            "try",
+            "import",
+            "def"
+        ],
+        'answer':1
+    },
+    {
+        'question': "Debugging tools help you test programs and track down errors",
+        'options': [
+            "True",
+            "False"
+        ],
+        'answer':0
+    },
+    {
+        'question': "Coding tools dont help you codify an algorithim",
+        'options': [
+            "True",
+            "False"
+        ],
+        'answer':1
+    },
+    {
+        'question': "Build tools transform your code into binary format that anyone can read",
+        'options': [
+            "True",
+            "False"
+        ],
+        'answer':1
+    },
+    {
+        'question': "What is a whole number without any decimal places",
+        'options': [
+            "Interger",
+            "Floating point"
+        ],
+        'answer':0
+    },
+    {
+        'question': "What is a number that includes decimal places",
+        'options': [
+            "Interger",
+            "Floating point"
+        ],
+        'answer':1
+    },
+    {
+        'question': "Grace Hopper fixed a malfunctioning computer by removing which bug",
+        'options': [
+            "grasshopper",
+            "moth",
+            "fly",
+            "butterfly"
+        ],
+        'answer':1
+    },
+    {
+        'question': "A syntax error occurs when a source code statement does not conform to the punctuation and structural rules",
+        'options': [
+            "True",
+            "False"
+        ],
+        'answer':0
+    },
+    {
+        'question': "Are semantic errors also called logic errors",
+        'options': [
+            "True",
+            "False"
+        ],
+        'answer':0
+    },
+    {
+        'question': "What does a comment do",
+        'options': [
+            "contains one instruction",
+            "like a paragraph, contains multiple statements",
+            "provides an explanation of your code",
+            "tells the computer how to handle the program"
+        ],
+        'answer':2
+    },
+    {
+        'question': "What is a statement",
+        'options': [
+            "Contains one instruction",
+            "like a paragraph, contains multiple statements",
+            "tells the computer how to handle the program",
+            "provides an explanation of your code"
+        ],
+        'answer':0
+    },
+    {
+        'question': "What is a Directive",
+        'options': [
+            "contains one instruction",
+            "provides an explanation of your code",
+            "like a paragraph, contains mutiple statements",
+            "tells the computer how to handle the program"
+        ],
+        'answer':3
+    },
+    {
+        'question': "What is a code block",
+        'options': [
+            "Contains one instruction",
+            "provides an explanation of your code",
+            "like a paragraph, contains multiple statements",
+            "tells the computer how to handle the program"
+        ],
+        'answer':2
+    },
+    {
+        'question': "Can a constant be changed by the statements in a program",
+        'options': [
+            "True",
+            "False"
+        ],
+        'answer':1
+    },
 ]
